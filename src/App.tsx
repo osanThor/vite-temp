@@ -6,7 +6,7 @@ export default function App() {
     <>
       <h1
         className={twMerge(
-          "text-3xl font-bold underline",
+          "text-3xl font-bold underline dancing-script",
           cancel && "line-through"
         )}
       >
